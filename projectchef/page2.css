@@ -1,0 +1,20 @@
+nav {
+    border:1px solid #faebd7;
+    padding 2px 0px;
+    display: flex; 
+    font-family: 'Marcellus', serif; 
+    background-color: burlywood;
+}
+
+.about {
+    padding: 5%;
+    font-family: 'Marcellus', serif; 
+    background-image: url(Images/soup.jpg);
+}
+
+h1 {font-family: 'Marcellus', serif; 
+}
+
+.about img {
+    width: 80%;
+}
