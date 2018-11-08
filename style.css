@@ -1,0 +1,21 @@
+.nav ul{ 
+list-style-type: none;
+display: flex;
+justify-content: space-between;
+font-family: 'rubik';
+}
+
+.nav a{
+text-decoration-line: none;
+color: black;
+}
+body {
+background-color: grey;
+}
+
+
+h4,p,h2,h3{
+font-family: 'Rubik', sans-serif;
+font-family: 'Raleway', sans-serif;  
+}
+
